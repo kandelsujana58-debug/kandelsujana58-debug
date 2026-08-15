@@ -73,20 +73,6 @@ A web-based rental management system designed to simplify two-wheeler booking an
 
 ---
 
-## 📈 GitHub Activity
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kandelsujana58-debug&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kandelsujana58-debug&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-
-## 🤝 Let's Connect
 
 ## 🤝 Let's Connect
 
